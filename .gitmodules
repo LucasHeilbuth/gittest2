@@ -1,0 +1,4 @@
+[submodule "gitteste1"]
+	path = gitteste1
+	url = git@github.com:LucasHeilbuth/gitteste1.git
+	branch = master
